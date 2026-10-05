@@ -32,8 +32,8 @@
       "label": "प्रदोष"
     },
     "isDasara": {
-      "type": "image",
-      "icon": "https://thumbs.dreamstime.com/z/lord-ganesha-sign-10750416.jpg",
+      "type": "emoji",
+      "icon": "🍀",
       "label": "दसरा"
     }
   },
