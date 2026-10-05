@@ -1,0 +1,9 @@
+{
+  "ads": [
+    {
+      "id": "ad_1_1",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/data/1.png",
+      "link": "https://example.com"
+    }
+  ]
+}
