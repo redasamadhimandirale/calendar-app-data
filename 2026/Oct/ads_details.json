@@ -2,8 +2,13 @@
   "ads": [
     {
       "id": "ad_10_1",
-      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/data/10.png",
-      "link": "https://example.com"
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Oct/ads/1.png",
+      "link": ""
+    },
+    {
+      "id": "ad_10_2",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Oct/ads/2.png",
+      "link": ""
     }
   ]
 }
