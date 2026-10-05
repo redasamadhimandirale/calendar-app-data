@@ -2,7 +2,9 @@
   "appName": "Dnyaneshwar Maharaj Reda Samadhi Calendar",
   "lastUpdated": "2026-10-06",
   "assets": {
-    "headerImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/header.png",
+    "version": "1.0.0",
+    "headerImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/header.png",
+    "logoImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/logo.png",
     "calendarBaseUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/"
   },
   "eventFlags": {
