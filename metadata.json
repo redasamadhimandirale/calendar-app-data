@@ -5,6 +5,38 @@
     "headerImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/header.png",
     "calendarBaseUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/"
   },
+  "eventFlags": {
+    "isEkadashi": {
+      "type": "emoji",
+      "icon": "🕉️",
+      "label": "एकादशी"
+    },
+    "isChaturthi": {
+      "type": "emoji",
+      "icon": "🌺",
+      "label": "चतुर्थी"
+    },
+    "isPurnima": {
+      "type": "emoji",
+      "icon": "🌕",
+      "label": "पौर्णिमा"
+    },
+    "isAmavasya": {
+      "type": "emoji",
+      "icon": "🌑",
+      "label": "अमावास्या"
+    },
+    "isPradosh": {
+      "type": "emoji",
+      "icon": "🪔",
+      "label": "प्रदोष"
+    },
+    "isDasara": {
+      "type": "image",
+      "icon": "https://thumbs.dreamstime.com/z/lord-ganesha-sign-10750416.jpg",
+      "label": "दसरा"
+    }
+  },
   "dataVersions": {
     "2026_Jan_calendar": "1.0.0",
     "2026_Jan_ads": "1.0.0",
