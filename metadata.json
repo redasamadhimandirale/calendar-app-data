@@ -62,8 +62,8 @@
     "2026_Oct_ads": "1.0.4",
     "2026_Nov_calendar": "1.0.0",
     "2026_Nov_ads": "1.0.2",
-    "2026_Dec_calendar": "1.0.0",
-    "2026_Dec_ads": "1.0.0"
+    "2026_Dec_calendar": "1.0.1",
+    "2026_Dec_ads": "1.0.1"
   },
   "endpoints": {
     "2026_Jan_calendar": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/2026/Jan/month_details.json",
