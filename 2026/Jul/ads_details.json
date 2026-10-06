@@ -2,8 +2,28 @@
   "ads": [
     {
       "id": "ad_7_1",
-      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/data/7.png",
-      "link": "https://example.com"
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Jul/ads/1.png",
+      "link": ""
+    },
+    {
+      "id": "ad_7_2",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Jul/ads/2.png",
+      "link": ""
+    },
+    {
+      "id": "ad_7_3",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Jul/ads/3.png",
+      "link": ""
+    },
+    {
+      "id": "ad_7_4",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Jul/ads/4.png",
+      "link": ""
+    },
+    {
+      "id": "ad_7_5",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Jul/ads/5.png",
+      "link": ""
     }
   ]
 }
