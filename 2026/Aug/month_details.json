@@ -387,33 +387,31 @@
       "flags": {}
     }
   },
-  "ads": {
-    "ads": [
-      {
-        "id": "ad_8_1",
-        "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/1.png",
-        "link": ""
-      },
-      {
-        "id": "ad_8_2",
-        "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/2.png",
-        "link": ""
-      },
-      {
-        "id": "ad_8_3",
-        "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/3.png",
-        "link": ""
-      },
-      {
-        "id": "ad_8_4",
-        "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/4.png",
-        "link": ""
-      },
-      {
-        "id": "ad_8_5",
-        "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/5.png",
-        "link": ""
-      }
-    ]
-  }
+  "ads": [
+    {
+      "id": "ad_8_1",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/1.png",
+      "link": ""
+    },
+    {
+      "id": "ad_8_2",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/2.png",
+      "link": ""
+    },
+    {
+      "id": "ad_8_3",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/3.png",
+      "link": ""
+    },
+    {
+      "id": "ad_8_4",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/4.png",
+      "link": ""
+    },
+    {
+      "id": "ad_8_5",
+      "imageUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/refs/heads/main/2026/Aug/ads/5.png",
+      "link": ""
+    }
+  ]
 }
