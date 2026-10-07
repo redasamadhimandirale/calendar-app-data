@@ -1,59 +1,56 @@
 {
   "appName": "Dnyaneshwar Maharaj Reda Samadhi Calendar",
-  "lastUpdated": "2026-10-06",
-  "assets": {
+  "dataVersions": {
+    "2026": {
+      "Jan": 1,
+      "Feb": 1,
+      "Mar": 1,
+      "Apr": 1,
+      "May": 1,
+      "Jun": 1,
+      "Jul": 1,
+      "Aug": 1,
+      "Sep": 1,
+      "Oct": 1,
+      "Nov": 1,
+      "Dec": 1
+    },
+    "AppData": 1
+  },
+  "appData": {
     "headerImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/header.png",
     "logoImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/logo.png",
-    "calendarBaseUrl": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/"
-  },
-  "availableYears": [
-    2026
-  ],
-  "eventFlags": {
-    "isEkadashi": {
-      "type": "emoji",
-      "icon": "🕉️",
-      "label": "एकादशी"
-    },
-    "isChaturthi": {
-      "type": "emoji",
-      "icon": "🌺",
-      "label": "चतुर्थी"
-    },
-    "isPurnima": {
-      "type": "emoji",
-      "icon": "🌕",
-      "label": "पौर्णिमा"
-    },
-    "isAmavasya": {
-      "type": "emoji",
-      "icon": "🌑",
-      "label": "अमावास्या"
-    },
-    "isPradosh": {
-      "type": "emoji",
-      "icon": "🪔",
-      "label": "प्रदोष"
-    },
-    "isDasara": {
-      "type": "emoji",
-      "icon": "🍀",
-      "label": "दसरा"
+    "eventFlags": {
+      "isEkadashi": {
+        "type": "emoji",
+        "icon": "🕉️",
+        "label": "एकादशी"
+      },
+      "isChaturthi": {
+        "type": "emoji",
+        "icon": "🌺",
+        "label": "चतुर्थी"
+      },
+      "isPurnima": {
+        "type": "emoji",
+        "icon": "🌕",
+        "label": "पौर्णिमा"
+      },
+      "isAmavasya": {
+        "type": "emoji",
+        "icon": "🌑",
+        "label": "अमावास्या"
+      },
+      "isPradosh": {
+        "type": "emoji",
+        "icon": "🪔",
+        "label": "प्रदोष"
+      },
+      "isDasara": {
+        "type": "emoji",
+        "icon": "🍀",
+        "label": "दसरा"
+      }
     }
-  },
-  "dataVersions": {
-    "AppData": "1.0.0",
-    "Jan": "1.0.1",
-    "Feb": "1.0.1",
-    "Mar": "1.0.1",
-    "Apr": "1.0.1",
-    "May": "1.0.1",
-    "Jun": "1.0.1",
-    "Jul": "1.0.1",
-    "Aug": "1.0.1",
-    "Sep": "1.0.1",
-    "Oct": "1.0.1",
-    "Nov": "1.0.1",
-    "Dec": "1.0.1"
   }
 }
