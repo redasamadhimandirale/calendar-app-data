@@ -2,18 +2,18 @@
   "appName": "Dnyaneshwar Maharaj Reda Samadhi Calendar",
   "dataVersions": {
     "2026": {
-      "Jan": 0,
-      "Feb": 0,
-      "Mar": 0,
-      "Apr": 0,
-      "May": 0,
-      "Jun": 0,
-      "Jul": 0,
-      "Aug": 0,
-      "Sep": 0,
-      "Oct": 0,
-      "Nov": 0,
-      "Dec": 0
+      "Jan": 1,
+      "Feb": 1,
+      "Mar": 1,
+      "Apr": 1,
+      "May": 1,
+      "Jun": 1,
+      "Jul": 1,
+      "Aug": 1,
+      "Sep": 1,
+      "Oct": 1,
+      "Nov": 1,
+      "Dec": 1
     },
     "AppData": 1
   },
