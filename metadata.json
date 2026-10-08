@@ -15,11 +15,14 @@
       "Nov": 1,
       "Dec": 1
     },
-    "AppData": 1
+    "AppData": 2
   },
   "appData": {
     "headerImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/header.png",
     "logoImage": "https://raw.githubusercontent.com/redasamadhimandirale/calendar-app-data/main/AppData/logo.png",
+    "donateUrl": "https://www.redasamadhiale.com/donate/",
+    "contactUrl": "https://www.redasamadhiale.com/contact/",
+    "developerUrl": "https://vedamit.com",
     "eventFlags": {
       "isEkadashi": {
         "type": "emoji",
