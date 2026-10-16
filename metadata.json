@@ -1,5 +1,20 @@
 {
   "appName": "Dnyaneshwar Maharaj Reda Samadhi Calendar",
+  "maintenance": {
+    "enabled": false,
+    "title": "ॲप देखभाल सुरू आहे",
+    "message": "आम्ही सध्या काही तांत्रिक सुधारणा करत आहोत. कृपया थोड्या वेळाने पुन्हा प्रयत्न करा.",
+    "contactUrl": "https://www.redasamadhiale.com/contact/"
+  },
+  "appVersion": {
+    "latestVersion": "1.0.0",
+    "minSupportedVersion": "1.0.0",
+    "forceUpdate": false,
+    "title": "नवीन अपडेट उपलब्ध आहे!",
+    "message": "नवीन सुधारणा आणि अखंड सेवेसाठी कृपया ॲप अपडेट करा.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vedamit.redasamadhicalender",
+    "appStoreUrl": "https://apps.apple.com/app/com.vedamit.redasamadhicalender"
+  },
   "dataVersions": {
     "2026": {
       "Jan": 1,
