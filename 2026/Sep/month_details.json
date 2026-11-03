@@ -1,23 +1,23 @@
 {
+  "gridTopPercent": 6,
+  "gridLeftPercent": 8,
+  "gridWidthPercent": 91.5,
+  "gridHeightPercent": 93.5,
+  "pickerTopPercent": 0,
+  "pickerLeftPercent": 8,
+  "pickerWidthPercent": 25,
+  "pickerHeightPercent": 6,
+  "layout": {
+    "gridTopPercent": 6,
+    "gridLeftPercent": 8,
+    "gridWidthPercent": 91.5,
+    "gridHeightPercent": 93.5,
+    "pickerTopPercent": 0,
+    "pickerLeftPercent": 8,
+    "pickerWidthPercent": 25,
+    "pickerHeightPercent": 6
+  },
   "calendar": {
-    "33": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "साखरपुडा मुहूर्त: दि. ४, ५, १२, १३, १४, १५, १६, १७, १९, २१, २२, २३, २४, २६",
-        "विवाह मुहूर्त: नाहीत"
-      ],
-      "flags": {}
-    },
-    "34": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "साखरपुडा मुहूर्त: दि. ४, ५, १२, १३, १४, १५, १६, १७, १९, २१, २२, २३, २४, २६",
-        "विवाह मुहूर्त: नाहीत"
-      ],
-      "flags": {}
-    },
     "2": {
       "day": 1,
       "tithi": "श्रावण कृ. ४/५",
@@ -397,6 +397,24 @@
       "events": [
         "चतुर्थी श्राद्ध",
         "पंचमी श्राद्ध"
+      ],
+      "flags": {}
+    },
+    "33": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "साखरपुडा मुहूर्त: दि. ४, ५, १२, १३, १४, १५, १६, १७, १९, २१, २२, २३, २४, २६",
+        "विवाह मुहूर्त: नाहीत"
+      ],
+      "flags": {}
+    },
+    "34": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "साखरपुडा मुहूर्त: दि. ४, ५, १२, १३, १४, १५, १६, १७, १९, २१, २२, २३, २४, २६",
+        "विवाह मुहूर्त: नाहीत"
       ],
       "flags": {}
     }

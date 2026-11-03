@@ -1,23 +1,23 @@
 {
+  "gridTopPercent": 6,
+  "gridLeftPercent": 8,
+  "gridWidthPercent": 91.5,
+  "gridHeightPercent": 93.5,
+  "pickerTopPercent": 0,
+  "pickerLeftPercent": 8,
+  "pickerWidthPercent": 25,
+  "pickerHeightPercent": 6,
+  "layout": {
+    "gridTopPercent": 6,
+    "gridLeftPercent": 8,
+    "gridWidthPercent": 91.5,
+    "gridHeightPercent": 93.5,
+    "pickerTopPercent": 0,
+    "pickerLeftPercent": 8,
+    "pickerWidthPercent": 25,
+    "pickerHeightPercent": 6
+  },
   "calendar": {
-    "34": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "वास्तू मुहूर्त: दि. २३, २४, २९",
-        "भूमिपूजन मुहूर्त: दि. २४, २९"
-      ],
-      "flags": {}
-    },
-    "33": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "साखरपुडा मुहूर्त: दि. २, ३, ४, ६, ८, १०, ११, १२, १३, २१, २६, २८, २९, ३०",
-        "विवाह मुहूर्त: दि. २१, २६, २८, २९, ३०"
-      ],
-      "flags": {}
-    },
     "1": {
       "day": null,
       "tithi": "यात्रा माहिती",
@@ -442,6 +442,24 @@
         "राष्ट्रसंत तुकडोजी महाराज जयंती",
         "पौर्णिमा प्रारंभ रात्रौ ९.१२"
       ]
+    },
+    "33": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "साखरपुडा मुहूर्त: दि. २, ३, ४, ६, ८, १०, ११, १२, १३, २१, २६, २८, २९, ३०",
+        "विवाह मुहूर्त: दि. २१, २६, २८, २९, ३०"
+      ],
+      "flags": {}
+    },
+    "34": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "वास्तू मुहूर्त: दि. २३, २४, २९",
+        "भूमिपूजन मुहूर्त: दि. २४, २९"
+      ],
+      "flags": {}
     }
   },
   "ads": [

@@ -1,4 +1,22 @@
 {
+  "gridTopPercent": 6,
+  "gridLeftPercent": 8,
+  "gridWidthPercent": 91.5,
+  "gridHeightPercent": 93.5,
+  "pickerTopPercent": 0,
+  "pickerLeftPercent": 8,
+  "pickerWidthPercent": 25,
+  "pickerHeightPercent": 6,
+  "layout": {
+    "gridTopPercent": 6,
+    "gridLeftPercent": 8,
+    "gridWidthPercent": 91.5,
+    "gridHeightPercent": 93.5,
+    "pickerTopPercent": 0,
+    "pickerLeftPercent": 8,
+    "pickerWidthPercent": 25,
+    "pickerHeightPercent": 6
+  },
   "calendar": {
     "2": {
       "day": 1,

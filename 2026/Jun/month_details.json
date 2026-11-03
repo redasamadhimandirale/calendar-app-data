@@ -1,23 +1,23 @@
 {
+  "gridTopPercent": 6,
+  "gridLeftPercent": 8,
+  "gridWidthPercent": 91.5,
+  "gridHeightPercent": 93.5,
+  "pickerTopPercent": 0,
+  "pickerLeftPercent": 8,
+  "pickerWidthPercent": 25,
+  "pickerHeightPercent": 6,
+  "layout": {
+    "gridTopPercent": 6,
+    "gridLeftPercent": 8,
+    "gridWidthPercent": 91.5,
+    "gridHeightPercent": 93.5,
+    "pickerTopPercent": 0,
+    "pickerLeftPercent": 8,
+    "pickerWidthPercent": 25,
+    "pickerHeightPercent": 6
+  },
   "calendar": {
-    "34": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "वास्तू मुहूर्त: दि. १७, २४, २७",
-        "भूमिपूजन मुहूर्त: दि. १७, १९, २०, २७"
-      ],
-      "flags": {}
-    },
-    "33": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "साखरपुडा मुहूर्त: दि. २, ४, ५, ६, ९, १०, ११, १९, २०, २३, २४, २७, २९",
-        "विवाह मुहूर्त: दि. १९, २०, २३, २४, २७"
-      ],
-      "flags": {}
-    },
     "1": {
       "day": 1,
       "tithi": "अधिक ज्येष्ठ कृ. १",
@@ -375,6 +375,24 @@
         "गुरु हरगोविंदसिंह जयंती",
         "पौर्णिमा समाप्ती पहाटे ५.२६"
       ]
+    },
+    "33": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "साखरपुडा मुहूर्त: दि. २, ४, ५, ६, ९, १०, ११, १९, २०, २३, २४, २७, २९",
+        "विवाह मुहूर्त: दि. १९, २०, २३, २४, २७"
+      ],
+      "flags": {}
+    },
+    "34": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "वास्तू मुहूर्त: दि. १७, २४, २७",
+        "भूमिपूजन मुहूर्त: दि. १७, १९, २०, २७"
+      ],
+      "flags": {}
     }
   },
   "ads": [

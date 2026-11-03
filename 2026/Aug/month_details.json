@@ -1,4 +1,22 @@
 {
+  "gridTopPercent": 6,
+  "gridLeftPercent": 8,
+  "gridWidthPercent": 91.5,
+  "gridHeightPercent": 93.5,
+  "pickerTopPercent": 0,
+  "pickerLeftPercent": 8,
+  "pickerWidthPercent": 25,
+  "pickerHeightPercent": 6,
+  "layout": {
+    "gridTopPercent": 6,
+    "gridLeftPercent": 8,
+    "gridWidthPercent": 91.5,
+    "gridHeightPercent": 93.5,
+    "pickerTopPercent": 0,
+    "pickerLeftPercent": 8,
+    "pickerWidthPercent": 25,
+    "pickerHeightPercent": 6
+  },
   "calendar": {
     "0": {
       "day": 30,
@@ -29,21 +47,21 @@
         "संकष्ट चतुर्थी"
       ]
     },
-    "3": {
-      "day": null,
-      "tithi": "मुहूर्त",
-      "events": [
-        "वास्तू मुहूर्त: दि. २०, २२, २६, २८",
-        "भूमिपूजन मुहूर्त: दि. १५, २०, २२, २४, २६, २९"
-      ],
-      "flags": {}
-    },
     "2": {
       "day": null,
       "tithi": "मुहूर्त",
       "events": [
         "साखरपुडा मुहूर्त: दि. ३, ४, ५, ८, ९, ११, १६, १७, १८, २०, २२, २३, २६, २७, ३०, ३१",
         "विवाह मुहूर्त: नाहीत"
+      ],
+      "flags": {}
+    },
+    "3": {
+      "day": null,
+      "tithi": "मुहूर्त",
+      "events": [
+        "वास्तू मुहूर्त: दि. २०, २२, २६, २८",
+        "भूमिपूजन मुहूर्त: दि. १५, २०, २२, २४, २६, २९"
       ],
       "flags": {}
     },
