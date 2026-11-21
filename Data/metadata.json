@@ -1,0 +1,84 @@
+{
+  "appName": "Dnyaneshwar Maharaj Reda Samadhi Calendar",
+  "maintenance": {
+    "enabled": false,
+    "title": "ॲप देखभाल सुरू आहे",
+    "message": "आम्ही सध्या काही तांत्रिक सुधारणा करत आहोत. कृपया थोड्या वेळाने पुन्हा प्रयत्न करा.",
+    "contactUrl": "https://www.redasamadhiale.com/contact/"
+  },
+  "appVersion": {
+    "latestVersion": "1.0.0",
+    "minSupportedVersion": "1.0.0",
+    "forceUpdate": false,
+    "title": "नवीन अपडेट उपलब्ध आहे!",
+    "message": "नवीन सुधारणा आणि अखंड सेवेसाठी कृपया ॲप अपडेट करा.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.vedamit.redasamadhicalender",
+    "appStoreUrl": "https://apps.apple.com/app/com.vedamit.redasamadhicalender"
+  },
+  "dataVersions": {
+    "2026": {
+      "Jan": 3,
+      "Feb": 3,
+      "Mar": 3,
+      "Apr": 3,
+      "May": 3,
+      "Jun": 3,
+      "Jul": 3,
+      "Aug": 3,
+      "Sep": 3,
+      "Oct": 3,
+      "Nov": 3,
+      "Dec": 3
+    },
+    "AppData": 3
+  },
+  "appData": {
+    "defaultLayout": {
+      "gridTopPercent": 6,
+      "gridLeftPercent": 8,
+      "gridWidthPercent": 91.5,
+      "gridHeightPercent": 93.5,
+      "pickerTopPercent": 0,
+      "pickerLeftPercent": 8,
+      "pickerWidthPercent": 25,
+      "pickerHeightPercent": 6
+    },
+    "headerImage": "https://reda-samadhi-calendar-app-data.pages.dev/AppData/header.webp",
+    "logoImage": "https://reda-samadhi-calendar-app-data.pages.dev/AppData/logo.webp",
+    "donateUrl": "https://www.redasamadhiale.com/donate/",
+    "contactUrl": "https://www.redasamadhiale.com/contact/",
+    "developerUrl": "https://vedamit.com/about",
+    "eventFlags": {
+      "isEkadashi": {
+        "type": "emoji",
+        "icon": "🕉️",
+        "label": "एकादशी"
+      },
+      "isChaturthi": {
+        "type": "emoji",
+        "icon": "🌺",
+        "label": "चतुर्थी"
+      },
+      "isPurnima": {
+        "type": "emoji",
+        "icon": "🌕",
+        "label": "पौर्णिमा"
+      },
+      "isAmavasya": {
+        "type": "emoji",
+        "icon": "🌑",
+        "label": "अमावास्या"
+      },
+      "isPradosh": {
+        "type": "emoji",
+        "icon": "🪔",
+        "label": "प्रदोष"
+      },
+      "isDasara": {
+        "type": "emoji",
+        "icon": "🍀",
+        "label": "दसरा"
+      }
+    }
+  }
+}
